@@ -16,8 +16,8 @@
     max-width: 1100px;
     border-radius: 20px;
     align-content: center;
-    background-color: #1e1e1e50;
-    box-shadow: 0px 0px 15px #1010107a;
+    background-color: #00293d79;
+    box-shadow: 0px 0px 15px #00293d70;
 }
 .hero__info {
     display: flex;
@@ -34,7 +34,7 @@
 }
 .hero__title span{
     text-decoration:underline;
-    color: var(--rosa1);
+    color: #00bfff;
 
     display: block;
     border-right: 4px solid;

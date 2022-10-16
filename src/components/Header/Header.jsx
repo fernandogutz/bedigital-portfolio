@@ -9,7 +9,7 @@ const Header = () => {
       <header className="header">
           <div className="header__logo">
             <a href="#inicio">
-              <img src={logo} alt="F de Fernando Gutz"/>
+              <img src={logo} alt="Be Digital, Software Developer Logo"/>
             </a>
           </div>
 

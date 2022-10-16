@@ -12,15 +12,15 @@ html {
 }
 :root {
   --white1: #ffffff;
-  --black1: #101010;
-  --black2: #181818;
-  --black3: #1e1e1e;
-  --black4: #282828;
-  --gris1: #c0c0c0;
+  --black1: #001f29;
+  --black2: #00293d;
+  --black3: #003459;
+  --black4: #004c74;
+  --gris1: #d6d6d6;
   --gris2: #d6d6d6;
   --gris3: #e4e4e4;
   --gris4: #f5f5f5;
-  --rosa1: #DE5E91;
+  --rosa1: #00bfff;
 }
 *::selection{
   background: var(--rosa1);

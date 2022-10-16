@@ -1,5 +1,5 @@
 .project {
-    background-color: var(--black4);
+    background-image: linear-gradient(180deg, #007da7ea 40%, #00648f54 100%);
     border-radius: 20px;
 }
 .project__tag {
