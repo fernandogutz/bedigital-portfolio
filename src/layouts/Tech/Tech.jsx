@@ -9,7 +9,7 @@ const Tech = () => {
                 <h2 className="technologies__title">Tecnologías</h2>
                 <div className="technologies__content">
                     <div className="tech-list">
-                        <h4 className="tech__title">💙 JavaScript: React.js - Node.js - EcmaScript6+ - jQuery</h4>
+                        <h4 className="tech__title">💙 JavaScript: React.js - jQuery - Frontity - EcmaScript6+</h4>
                         <h4 className="tech__title">💙 Backend: PHP8 - MySQL - WordPress - WooCommerce</h4>
                         <h4 className="tech__title">💙 Maquetación: HTML5 - CSS3 - Sass - Bootstrap</h4>
                         <h4 className="tech__title">💙 Design: Figma, Inkscape, Pixlr y Elementor</h4>
